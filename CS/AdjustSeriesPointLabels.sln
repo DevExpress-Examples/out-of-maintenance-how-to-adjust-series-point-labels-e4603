@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjustSeriesPointLabels", "AdjustSeriesPointLabels\AdjustSeriesPointLabels.csproj", "{EC362B0F-3C94-4A4C-BC2F-56B7F07A2AF2}"
 EndProject
 Global

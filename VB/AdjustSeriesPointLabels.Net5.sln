@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdjustSeriesPointLabels", "AdjustSeriesPointLabels\AdjustSeriesPointLabels.vbproj", "{EC362B0F-3C94-4A4C-BC2F-56B7F07A2AF2}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdjustSeriesPointLabels", "AdjustSeriesPointLabels\AdjustSeriesPointLabels.Net5.vbproj", "{EC362B0F-3C94-4A4C-BC2F-56B7F07A2AF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
